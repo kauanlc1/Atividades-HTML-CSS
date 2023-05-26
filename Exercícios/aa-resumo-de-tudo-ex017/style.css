@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family:'Yau' ;
+    src: url('fonts/VarsityTeam-Bold.otf');
+
+}
+
+main {
+    padding: 10px;
+}
+
+body {
+    font-family: 'Yau', Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to bottom, #0FC2C0, #015958);
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-indent: 20px;
+}

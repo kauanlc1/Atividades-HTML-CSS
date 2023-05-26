@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+div {
+    padding: 10px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.205);
+}
+
+p.msg1 {
+    text-align: left;    
+    font-weight: bold;
+    background-color: rgba(209, 138, 235, 0.62);
+    padding: 3px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.205);
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin: 8px;
+}
+
+p.msg2 {
+    text-align: right;
+    font-weight: bold;
+    background-color: rgba(154, 255, 53, 0.798);
+    padding: 3px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.205);
+    font-family: Arial, Helvetica, sans-serif;   
+    float: right; 
+}
+
+input {
+    width: 450px;
+    height: 18px;
+    border-radius: 4px;
+    margin: 15px 10px;
+    cursor: text;
+}
+
+p:hover  {
+    color: rgba(8, 8, 8, 0.569);
+}
+
+
+
