@@ -1,4 +1,4 @@
 # html-css
- Curso de HTML5 e CSS3 do Guanabara
+ Curso de HTML5 e CSS3 - Gustavo Guanabara
 
-Estou aprendendo a gerenciar sites e agora vou gerenciar meus repositórios
+Com o passar dos estudos, fui testando meus novos conhecimentos com projetos simples e diversificados, buscando fixar o que aprendi.
